@@ -352,7 +352,7 @@ function crumb70 () {
 }
 
 function crumb71 () {
-    where2begin = where2begin + "Once when " + function_pronoun_past() + " " + function_clock() + " " + function_pronoun() + " saw a " + function_other_adjectives() + " picture in a book about the " + function_concepts() + ", called " + capitalizeFirstLetter(function_other_adjectives()) + " Stories. ";
+    where2begin = where2begin + "Once when " + function_pronoun_past() + " " + function_clock() + " " + function_pronoun() + " saw one " + function_other_adjectives() + " picture in a book about the " + function_concepts() + ", called " + capitalizeFirstLetter(function_other_adjectives()) + " Stories. ";
 }
 
 function crumb72 () {
