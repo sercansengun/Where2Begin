@@ -272,7 +272,7 @@ function crumb50 () {
 }
 
 function crumb51 () {
-    where2begin = where2begin + "Once upon the " + function_longtime() + ", there was a " + function_people() + " who discovered that " + function_pronoun() +  " had turned into this " + function_people_adjectives() + " person. ";
+    where2begin = where2begin + "Once upon the " + function_longtime() + ", there was one " + function_people() + " who discovered that " + function_pronoun() +  " had turned into this " + function_people_adjectives() + " person. ";
 }
 
 function crumb52 () {
