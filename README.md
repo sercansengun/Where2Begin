@@ -1,3 +1,5 @@
+See a running version at http://sercansengun.com/where2begin/
+
 #What is Where2Begin?
 Where2Begin randomly generates an opening sentence for a novel/story by mashing together the opening sentences of 100 famous novels. The script randomly arranges the names, locations, concepts, genders, possessions, times, etc. to come up with mostly quirky but occasionally suprising results.
 
